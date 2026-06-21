@@ -514,7 +514,7 @@ Spark Declarative Pipelines provides native monitoring capabilities that elimina
 ## 📧 Contact
 
 **Author**: Nazmul Shovon  
-**LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+**LinkedIn**: [linkedin.com/in/nhshovon](https://linkedin.com/in/nhshovon)  
 **Email**: corporate.nhs@outlook.com  
 **GitHub**: [github.com/your-username](https://github.com/your-username)  
 
